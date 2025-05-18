@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.container{
+    margin-bottom: 170px;
+}
+.heading{
+    font-size: 35px;
+    font-family: "PT Serif", serif;
+    font-weight: bolder;
+    text-shadow: 6px 6px 6px black;
+}
+.para{
+    font-size: 30px;
+    font-family: "Cedarville Cursive", cursive;
+    padding: 10px;
+    margin-top: 5px;
+    /* text-shadow: 6px 6px 6px black; */
+    text-shadow: 2px 2px black;
+}
+
+.spotifyButton{
+    margin-top: 40px;
+    background:  #1ED760;
+    border: 2px solid black;
+    height: 35px;
+    width: 155px;
+    padding: 2px;
+    padding-left: 5px;
+    border-radius: 8px;
+}
+:hover.spotifyButton{
+    background: #19a349;
+    height: 37px;
+    width: 157px; 
+}
+
+.spotify{
+    height: 50px;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: -20px;
+}
+
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.container{
+    display: flex;
+    flex-direction: column;
+     align-items: center;
+    justify-content: center;
+    padding-top: 18vh;    
+     
+}
+
+.text-white{
+    color: white;
+    font-weight: bold;
+    font-family: "PT Serif", serif;
+}
